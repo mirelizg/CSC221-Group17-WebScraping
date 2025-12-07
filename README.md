@@ -7,5 +7,3 @@ __Project Description:__  Web Scraping project to gather data from a public webs
                            and save the results into a CSV file for later analysis.
 
 __Webscraped URL:__  [ URL: https://quotes.toscrape.com/ ]
-
-__Collaborator:__  Maria Del Carmen Caballero Hernandez (mcaballerohernandez@waketech.edu)
